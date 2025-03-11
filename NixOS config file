@@ -157,7 +157,15 @@ swww
 cpufetch
 swayrbar
 networkmanager
-waybar 
+waybar
+obs-studio
+discord
+blender
+davinci-resolve
+opera
+neovim
+flameshot
+tor 
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
@@ -211,6 +219,7 @@ hardware = {
 
 #XDG portal
 xdg.portal.enable = true;
-xdg.portal.extraPortals = [ pkgs.xdg-desktop-portal-gtk ];
+xdg.portal.extraPortals = [ pkgs.xdg-desktop-portal-gtk ];      
 }
+
 
