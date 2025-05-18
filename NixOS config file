@@ -162,11 +162,7 @@ networkmanager
 waybar
 obs-studio
 discord
-blender
-davinci-resolve
-opera
-neovim
-flameshot
+brave
 tor 
   ];
 
